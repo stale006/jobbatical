@@ -53,6 +53,10 @@ header {
   height: 60px;
 }
 
+.content {
+  height: 100%;
+}
+
 .a {
   width: 500px;
   height: calc(100% - 40px);
