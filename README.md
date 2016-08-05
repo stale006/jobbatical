@@ -15,4 +15,12 @@ Get active users -
 
   http://localhost:3000/topActiveUsers
 
-to do this task it took me an hour.
+  to do this task it took me an hour.
+
+
+get user info 
+
+  http://localhost:3000/users?id=1
+    
+  To do this task it took me 2 hours. 
+  
